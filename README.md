@@ -17,7 +17,8 @@ A full‑stack Hollow Knight–themed hierarchical todo app where multiple users
 
 **Optional Extensions Implemented:**
 
-- Infinite sub‑tasks (no hard 3‑level cap); UI remains clean via collapsible nesting
+- Allowing for infinite sub‑tasks; UI remains clean via collapsible nesting
+- Allowing for moving tasks and subtasks around arbitrarily.
 
 
 ### Tech Stack
@@ -264,26 +265,18 @@ Theme
 
 ### Known Issues / Limitations
 
-- Maximum nesting depth limited to 3 levels
-- Only top‑level quests are movable between journals in the UI
 - No drag‑and‑drop reordering yet
-- No real‑time collaboration (single‑user sessions per browser)
 - No “forgot password” flow
 
 
 ### Demo Video
 
-- **Demo Video:** [Link will be added here]
-- Duration: 3–5 minutes
-- Showcases registration/login, list CRUD, nested quests, complete/move/collapse
+[Watch the Demo Video](https://www.loom.com/share/e669dba8e7844bbea29e6852708029f0)
 
 
 ### Attribution
 
 - **Theme Inspiration:** Hollow Knight by Team Cherry
-- **UI Components:** shadcn/ui
-- **Icons:** Lucide React
-- **Font:** Google Fonts (Cinzel)
 
 This project was created as part of CS162 at Minerva University.
 
