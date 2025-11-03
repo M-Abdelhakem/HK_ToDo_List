@@ -1,0 +1,3 @@
+*.pyc
+/backend/venv
+frontend/.DS_Store
