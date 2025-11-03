@@ -14,7 +14,7 @@ class Config:
     """Base configuration class for Flask application."""
     
     # Database configuration
-    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL', 'postgresql://localhost/todolist')
+    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL', 'postgresql://localhost/hollow_knight_todo')
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     
     # JWT configuration
