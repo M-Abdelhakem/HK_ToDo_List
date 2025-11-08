@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Abdelhakem/HK_ToDo_List)
+
 ## Hallownest Quest Journal - Hierarchical Todo List
 
 A full‑stack Hollow Knight–themed hierarchical todo app where multiple users create "quest journals" and organize quests with nested sub‑quests. The UI embraces a dark, elegant Hallownest aesthetic, and the backend persists data in PostgreSQL.
